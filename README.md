@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Description of the project
 
-<p>The Favorite Anime and Manga program is a software application designed for anime and manga fans to manage and keep track of their favorite anime series and manga titles. The program provides a user-friendly interface that allows users to organize anime and manga content./p>
+The Favorite Anime and Manga program is a software application designed for anime and manga fans to manage and keep track of their favorite anime series and manga titles. The program provides a user-friendly interface that allows users to organize anime and manga content.
 
 
 
